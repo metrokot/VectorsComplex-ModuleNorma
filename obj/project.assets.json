@@ -1,0 +1,66 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net7.0": []
+  },
+  "packageFolders": {
+    "/Users/maksimsmirnov/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/maksimsmirnov/RiderProjects/Labor2/Labor2.csproj",
+      "projectName": "Labor2",
+      "projectPath": "/Users/maksimsmirnov/RiderProjects/Labor2/Labor2.csproj",
+      "packagesPath": "/Users/maksimsmirnov/.nuget/packages/",
+      "outputPath": "/Users/maksimsmirnov/RiderProjects/Labor2/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/maksimsmirnov/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/Users/maksimsmirnov/.dotnet/sdk/7.0.200/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

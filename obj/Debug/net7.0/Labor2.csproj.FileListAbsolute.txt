@@ -1,0 +1,15 @@
+/Users/maksimsmirnov/RiderProjects/Labor2/bin/Debug/net7.0/Labor2
+/Users/maksimsmirnov/RiderProjects/Labor2/bin/Debug/net7.0/Labor2.deps.json
+/Users/maksimsmirnov/RiderProjects/Labor2/bin/Debug/net7.0/Labor2.runtimeconfig.json
+/Users/maksimsmirnov/RiderProjects/Labor2/bin/Debug/net7.0/Labor2.dll
+/Users/maksimsmirnov/RiderProjects/Labor2/bin/Debug/net7.0/Labor2.pdb
+/Users/maksimsmirnov/RiderProjects/Labor2/obj/Debug/net7.0/Labor2.csproj.AssemblyReference.cache
+/Users/maksimsmirnov/RiderProjects/Labor2/obj/Debug/net7.0/Labor2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksimsmirnov/RiderProjects/Labor2/obj/Debug/net7.0/Labor2.AssemblyInfoInputs.cache
+/Users/maksimsmirnov/RiderProjects/Labor2/obj/Debug/net7.0/Labor2.AssemblyInfo.cs
+/Users/maksimsmirnov/RiderProjects/Labor2/obj/Debug/net7.0/Labor2.csproj.CoreCompileInputs.cache
+/Users/maksimsmirnov/RiderProjects/Labor2/obj/Debug/net7.0/Labor2.dll
+/Users/maksimsmirnov/RiderProjects/Labor2/obj/Debug/net7.0/refint/Labor2.dll
+/Users/maksimsmirnov/RiderProjects/Labor2/obj/Debug/net7.0/Labor2.pdb
+/Users/maksimsmirnov/RiderProjects/Labor2/obj/Debug/net7.0/Labor2.genruntimeconfig.cache
+/Users/maksimsmirnov/RiderProjects/Labor2/obj/Debug/net7.0/ref/Labor2.dll
